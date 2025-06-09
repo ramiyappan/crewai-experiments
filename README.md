@@ -23,7 +23,7 @@ The repository contains Jupyter notebooks that cover various aspects of CrewAI i
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/ramiyappan/crewAI-experiments.git
+git clone https://github.com/ramiyappan/crewai-experiments.git
 cd crewAI-experiments
 ```
 
