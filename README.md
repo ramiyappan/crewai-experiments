@@ -36,7 +36,7 @@ pip install -r requirements.txt
 
 ## 📝 Blog Post
 
-An accompanying Medium blog post will be published that provides detailed explanations and insights into the implementations shown in these notebooks. The blog post will cover:
+An accompanying [Medium blog post](https://medium.com/@ramiyappan98/creating-your-first-ai-agent-using-crewai-ce561678055f) has been published that provides detailed explanations and insights into the implementations shown in these notebooks. The blog post will cover:
 - Core concepts of agentic architectures
 - Best practices for implementing CrewAI
 - Real-world applications and use cases
@@ -56,7 +56,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 🔗 Links
 
 - [CrewAI Documentation](https://docs.crewai.com/)
-- [Medium Blog Post](coming soon)
+- [Medium Blog Post](https://medium.com/@ramiyappan98/creating-your-first-ai-agent-using-crewai-ce561678055f)
 - [Original CrewAI Repository](https://github.com/joaomdmoura/crewAI)
 
 ## 📧 Contact
